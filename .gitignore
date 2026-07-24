@@ -1,0 +1,24 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments (never upload these)
+.venv/
+venv/
+env/
+
+# Environment variables and sensitive info (protect your passwords)
+.env
+*.env.local
+
+# IDE editor configurations
+.vscode/
+.idea/
+
+# OS generated junk files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
