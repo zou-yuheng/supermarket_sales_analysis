@@ -26,7 +26,7 @@ The dataset comprises 17 core fields, enabling multi-dimensional business analys
 
 ## Tech Stack
 
-- **Python 3.x**: Core programming language.
+- **Python 3.12.1**: Core programming language.
 - **Pandas**: Data cleaning, transformation, and group-by aggregation.
 - **Matplotlib / Seaborn**: Data visualization and charting.
 - **Statsmodels (ARIMA)**: Time-series forecasting for future sales prediction.
