@@ -8,6 +8,15 @@ This project conducts an end-to-end Exploratory Data Analysis (EDA) and time-ser
 > The code and analytical frameworks in this repository are strictly for educational and technical exchange purposes. Commercial use is strictly prohibited.
 > The dataset (`supermarket_sales.csv`) is a classic public dataset widely used for business analysis learning. It contains no real-world personal privacy or commercial secrets.
 
+## Dataset Source
+
+| Item | Details |
+| --- | --- |
+| **Dataset Name** | Supermarket Sales Dataset |
+| **Source URL** | [https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales/data](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales/data) |
+| **Author** | Fares Ashraf |
+| **License** | Apache 2.0 |
+
 ## Dataset Description
 
 The dataset comprises 17 core fields, enabling multi-dimensional business analysis:
@@ -41,4 +50,20 @@ The dataset comprises 17 core fields, enabling multi-dimensional business analys
 
 - `Supermarket_Sales_Report.docx`: Detailed business analysis report (in Chinese).
 - `Presentation.pptx`: Project presentation slides (in Chinese). *Note: Layout utilizes a free open-source template for educational purposes.*
+
+## Chart Showcase
+
+Below are some key visualizations generated during the analysis:
+
+### Sales Trend by Hour
+
+![Hourly Sales Trend](./images/hourly\_sales\_trend.png)
+
+### Sales Performance by Product Line
+
+![Sales by Product Line](./images/sales\_by\_product\_line.png)
+
+### ARIMA Sales Forecast
+
+![ARIMA Sales Forecast](./images/arima\_sales\_forecast.png)
 

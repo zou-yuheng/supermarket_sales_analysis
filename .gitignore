@@ -22,3 +22,21 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.ipython/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Linters and type checkers
+.ruff_cache/
+.mypy_cache/
+
+# Build / packaging artifacts
+build/
+dist/
+*.egg-info/
