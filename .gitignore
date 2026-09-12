@@ -40,3 +40,9 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# Course report (kept local only)
+Course_report(Chinese_version).pdf
+
+# Root-level PNG files (images/ folder stays tracked)
+/*.png
